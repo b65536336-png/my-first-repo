@@ -12,3 +12,8 @@
 - clone
 - push
 - pull# my-first-repo
+## 本地修改记录
+
+这是我第一次用 VS Code 修改 GitHub 仓库文件。
+
+我正在学习 GitHub 的基本流程：clone、edit、add、commit、push。
